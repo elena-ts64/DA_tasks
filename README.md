@@ -22,7 +22,12 @@
   </tr>
   <tr>
     <td align='center'>Блок 4</td>
-    <td><a href="python">Статистика и АБ-тесты</a></td>
+    <td><a href="statistics_and_AB_tests">Статистика и АБ-тесты</a></td>
     <td>3 теоретические задачи на понимание статистики и принципов проведения АБ-тестов</td>
+  </tr>
+  <tr>
+    <td align='center'>Блок 5</td>
+    <td><a href="ml_base">ML Base</a></td>
+    <td>3 задачи на понимание основ машинного обучения</td>
   </tr>
 </table>
